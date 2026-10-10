@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+
+# Python cache, if local helper tooling is added later
+__pycache__/
+*.py[cod]
+
+# Do not ignore evidence/ or submission/ because the lab explicitly requires
+# evidence and submission materials to be collected there.

@@ -1,0 +1,5 @@
+[PASTE THE ACTUAL OUTPUT OF:
+ls -laR /home/agent007/mission/
+HERE]
+
+Do not fabricate the output.
